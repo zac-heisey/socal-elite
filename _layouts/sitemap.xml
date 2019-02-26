@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- Pages -->
+  <url>
+    <loc>https://www.risephysicaltherapy.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/locations/solana-beach-physical-therapy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/locations/carlsbad-physical-therapy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/locations/point-loma-physical-therapy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/privacy-policy/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/thank-you/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/sitemap/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/feed.xml/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.risephysicaltherapy.com/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  {% for post in site.categories.blog %}
+  <url>
+    <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  {% endfor %}
+
+</urlset>

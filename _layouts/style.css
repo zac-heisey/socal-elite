@@ -1,0 +1,5 @@
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{% include css/services.css %}
+{% include css/blog.css %}
+{{ content }}

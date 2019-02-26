@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RISE Physical Therapy</title>
+    <description>Welcome to RISE Physical Therapy. Providing physical therapy in Solana Beach, Carlsbad, &amp; Point Loma. Visit us today to schedule your appointment!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 23 Jan 2019 22:39:34 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jan 2019 22:39:34 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    <!-- This pulls from 'categories:' front matter field in /blog/_posts content -->
+    
+      <item>
+        <title>The Role of Physical Therapy in Pre and Post-Op Care</title>
+        <description>Recovering from a major surgery can be physically and emotionally difficult. Pre and post-op physical therapy can often speed up the recovery process for many patients.</description>
+        <pubDate>Mon, 12 Nov 2018 15:01:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/the-role-of-physical-therapy-in-pre-and-post-op-care</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-role-of-physical-therapy-in-pre-and-post-op-care</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Importance of Hip and Thoracic Spine Mobility in Prevention of Lower Back Pain in The Golf Swing</title>
+        <description>Lower back pain is a common among golfers of all levels. We highlight the importance of hip &amp; spine mobility in relieving this pain, and stretches to prevent future injuries.</description>
+        <pubDate>Mon, 22 Jan 2018 17:06:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/the-importance-of-hip-and-thoracic-spine-mobility-in-prevention-of-lower-back-pain-in-the-golf-swing</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-importance-of-hip-and-thoracic-spine-mobility-in-prevention-of-lower-back-pain-in-the-golf-swing</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>An Essential Part of the Core: The Pelvic Floor</title>
+        <description>The pelvic floor is one of the most underrated muscle groups of the human body. Learn about what it is, what it does, and how to maintain a strong pelvic floor.</description>
+        <pubDate>Thu, 09 Nov 2017 18:32:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/an-essential-part-of-the-core-the-pelvic-floor</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/an-essential-part-of-the-core-the-pelvic-floor</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Overhead Athletes and Shoulder Health</title>
+        <description>Overhead athletes face specific challenges when it comes to maintaining shoulder health and preventing injury. RISE Physical Therapy discuss them here.</description>
+        <pubDate>Tue, 24 Oct 2017 12:35:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/overhead-athletes-and-shoulder-health</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/overhead-athletes-and-shoulder-health</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Static vs. Dynamic Stretching</title>
+        <description>Many of us only know of one way to stretch: static stretching. But dynamic stretching can have major benefits for athletic performance &amp; injury prevention.</description>
+        <pubDate>Mon, 02 Oct 2017 20:08:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/static-vs-dynamic-stretching</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/static-vs-dynamic-stretching</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Things You Didn't Know Your Physical Therapist Could Do</title>
+        <description>There are applications for physical therapy outside of treating back pain, sports injuries, or surgical rehab. Here are 3 things physical therapists can also do.</description>
+        <pubDate>Mon, 25 Sep 2017 19:27:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/3-things-you-didnt-know-your-physical-therapist-could-do</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/3-things-you-didnt-know-your-physical-therapist-could-do</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Dancing with Pain</title>
+        <description>RISE Physical Therapy's Justin Ternes explains the importance of leaning how to dance with, rather than fight, your pain.</description>
+        <pubDate>Mon, 11 Sep 2017 15:24:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/dancing-with-pain</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/dancing-with-pain</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Hips Don't Lie - How to Unlock Tight Hips</title>
+        <description>Whether you to sit all day at work or you've just killed leg day at the gym, you've likely experienced issues with tight hips. Here are 5 ways to unlock those tight hips!</description>
+        <pubDate>Wed, 23 Aug 2017 14:45:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/hips-dont-lie-how-to-unlock-tight-hips</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/hips-dont-lie-how-to-unlock-tight-hips</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Why Physical Therapy Should Be Your First Line of Defense</title>
+        <description>When it comes to pain, physical therapy should be your first line of defense. Learn how physical therapy can be the step 1 in injury treatment &amp; prevention.</description>
+        <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/physical-therapy-first-line-defense</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/physical-therapy-first-line-defense</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>North County Love</title>
+        <description>RISE is a proud member of the North County business community. We provide physical therapy in Solana Beach, Carlsbad, and Point Loma.</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/north-county-love</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/north-county-love</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Running Injury Prevention Clinic at Movin Shoes</title>
+        <description>RISE Physical Therapy is proud to partner with Movin Shoes in Encinitas and offer running injury prevention clinics to the North County running community.</description>
+        <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/running-injury-prevention-clinic-at-movin-shoes</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/running-injury-prevention-clinic-at-movin-shoes</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>How Elite Athletes Can Use Physical Therapy As Part of Their Training Program</title>
+        <description>By incorporating physical therapy into a standard training program, elite athletes can reap additional benefits through sports therapy &amp; rehabilitation.</description>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/how-elite-athletes-can-use-physical-therapy-as-part-of-their-training-program</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/how-elite-athletes-can-use-physical-therapy-as-part-of-their-training-program</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>What is a Biomechanical Assessment and Why You Should Get One</title>
+        <description>Most physical therapy treatment plans begin and end with a biomechanical assessment to track patient progress and help patients achieve maximum mobility.</description>
+        <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/what-is-a-biomechanical-assessment</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/what-is-a-biomechanical-assessment</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Do's and Don'ts of Injury Rehabilitation</title>
+        <description>Getting injured is no fun. Sometimes, though, the rehabilitation exercises required to get you back to 100% are even more difficult. Here are some do's and don'ts when it comes to injury rehabilitation.</description>
+        <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/the-dos-and-donts-of-injury-rehabilitation</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-dos-and-donts-of-injury-rehabilitation</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The 6 Most Common Sports Injuries (and How You Can Avoid Them)</title>
+        <description>If you're physically active or involved in sports, you'll want to know about the most common sports injuries, and how you can avoid them.</description>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/the-6-most-common-sports-injuries-and-how-you-can-avoid-them</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-6-most-common-sports-injuries-and-how-you-can-avoid-them</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Ball.Is.Life</title>
+        <description>Dr. Navid Hannanvash grew up on a basketball court and attributes the lessons he learned to many of the founding principles of RISE Physical Therapy.</description>
+        <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/ball-is-life</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ball-is-life</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome Dr. Alex Kelso to the RISE Physical Therapy Family</title>
+        <description>Please join us in welcoming Dr. Alex Kelso to the RISE Physical Therapy family!</description>
+        <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/welcome-dr-alex-kelso</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/welcome-dr-alex-kelso</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Foundations - The Thoracic Spine</title>
+        <description>The thoracic spine is often the cause of many of these injuries because of a lack of motion in its segments. Here are some thoracic spine Do's &amp; Don'ts.</description>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/foundations-the-thoracic-spine</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/foundations-the-thoracic-spine</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Foundations - The Pelvis</title>
+        <description>The pelvis acts as a foundational for the spine and provides stability. Learn more about physical therapy for the pelvis and dry-land training.</description>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/foundations-the-pelvis</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/foundations-the-pelvis</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Foundations - New RISE Partnerships</title>
+        <description>RISE Physical Therapy is proud to announce our partnership with the Solana Beach Boys and Girls Club and the Rancho San Dieguito Swim Club!</description>
+        <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/foundations-rise-partnerships</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/foundations-rise-partnerships</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>RISE and RISE Again</title>
+        <description>At RISE Physical Therapy we strive to uphold all the core values of our company that are contained with our name - Revolution In Self Evolution.</description>
+        <pubDate>Wed, 08 Apr 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/rise-and-rise-again</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/rise-and-rise-again</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: RISE Physical Therapy
+title: SoCal Elite Physical Therapy
 timezone: UTC
 collections:
   posts:
@@ -20,26 +20,23 @@ defaults:
     description: ''
     featured-image: ''
     alt-tag: ''
-url: https://www.risephysicaltherapy.com
-baseurl: 
-email: rise@risephysicaltherapy.com
-description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
-  Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
+url: https://www.socalelitephysicaltherapy.com
+baseurl:
+email: admin@socalelitephysicaltherapy.com
+description: Welcome to Socal Elite Physical Therapy. Providing physical therapy in Irvine, CA. Visit us today to schedule your appointment!
 logo: img/logos/rise-main-logo.png
 social:
 - title: twitter
-  url: http://twitter.com/RISE_PT
+  url: http://twitter.com/
 - title: facebook
-  url: https://www.facebook.com/officialrisephysicaltherapy
-- title: google-plus
-  url: https://plus.google.com/+RISEPhysicalTherapySolanaBeach/
+  url: https://www.facebook.com/
 - title: instagram
-  url: https://instagram.com/rise_pt/
+  url: https://instagram.com/
 - title: linkedin
-  url: https://www.linkedin.com/company/rise-physical-therapy
+  url: https://www.linkedin.com/
 address:
-- line: 380 Stevens Ave Suite 314
-- line: Solana Beach, CA 92075
+- line: 12 Mauchly, Suite P
+- line: Irvine, CA 92075
 markdown: kramdown
 permalink: pretty
 include:

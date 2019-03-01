@@ -184,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #fff;
     min-height: 70px;
 }
 
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 #navbar-logo {
-  margin-top: -20px;
+  margin-top: -10px;
   transform: scale(.5);
 }
 
@@ -268,7 +268,7 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        min-height: 90px;
+        min-height: 100px;
     }
 
     .navbar-default .navbar-brand {

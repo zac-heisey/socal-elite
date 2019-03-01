@@ -59,4 +59,4 @@ As stated above, your physical therapist may also incorporate various medical an
 
 ## Contact Us
 
-Physical therapy can be an important part of preparing for or recovering from surgery. If your doctor recommends it, you can look forward to experiencing its numerous health benefits. [Contact RISE Physical Therapy](/#contact) today to learn more about physical therapy and its role in your recovery.
+Physical therapy can be an important part of preparing for or recovering from surgery. If your doctor recommends it, you can look forward to experiencing its numerous health benefits. [Contact SoCal Elite Physical Therapy](/#contact) today to learn more about physical therapy and its role in your recovery.

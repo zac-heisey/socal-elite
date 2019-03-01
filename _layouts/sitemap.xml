@@ -7,47 +7,47 @@
 
 <!-- Pages -->
   <url>
-    <loc>https://www.risephysicaltherapy.com/</loc>
+    <loc>{{ site.url }}</loc>
     <changefreq>monthly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/locations/solana-beach-physical-therapy</loc>
+    <loc>{{ site.url }}/locations/solana-beach-physical-therapy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/locations/carlsbad-physical-therapy</loc>
+    <loc>{{ site.url }}/locations/carlsbad-physical-therapy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/locations/point-loma-physical-therapy</loc>
+    <loc>{{ site.url }}/locations/point-loma-physical-therapy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/privacy-policy/</loc>
+    <loc>{{ site.url }}/privacy-policy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/thank-you/</loc>
+    <loc>{{ site.url }}/thank-you/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/sitemap/</loc>
+    <loc>{{ site.url }}/sitemap/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/feed.xml/</loc>
+    <loc>{{ site.url }}/feed.xml/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.risephysicaltherapy.com/blog/</loc>
+    <loc>{{ site.url }}/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>

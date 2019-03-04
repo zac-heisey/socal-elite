@@ -3,13 +3,13 @@ title: Torticollis
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-service: Torticollis and Plagiocephaly Treatment (Point Loma Only)
+service: Torticollis and Plagiocephaly Treatment
 subtitle: and Plagiocephaly Treatment
 layout: default
 modal-id: "-torticollis-plagiocephaly-treatment"
 img: torticollis-plagiocephaly.jpg
 thumbnail: torticollis-plagiocephaly-thumbnail.jpg
-alt: 
+alt:
 description: Many parents are not sure what to do when their child is diagnosed with
   Torticollis or its associated conditions. Regardless of the patient’s age, physical
   therapy is the primary treatment for all forms of torticollis. Torticollis can present
@@ -21,6 +21,5 @@ description: Many parents are not sure what to do when their child is diagnosed 
   reoccur later in life and cause permanent disabilities (such as delayed milestones
   and gross motor development, Plagiocephaly, strength and muscular imbalances, hip
   dysplasia, and scoliosis). To learn more about how our treatments can help your
-  child, contact our Point Loma location!
+  child, contact us today!
 ---
-

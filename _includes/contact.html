@@ -1,41 +1,42 @@
 <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Reach out to Socal Elite today and we'll get in touch ASAP.</h3>
-                </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Contact Us</h2>
+        <h3 class="section-subheading text-muted">Reach out to Socal Elite today and we'll get in touch ASAP.</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <!-- Contact Form (via Formspree.io) -->
+        <form name="sentMessage" id="contactForm" action="https://formspree.io/zheisey@gmail.com" method="POST">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="control-group form-group">
+                <input type="text" name="name" class="form-control" placeholder="Your Name *" id="name" required>
+              </div>
+              <div class="control-group form-group">
+                <input type="email" name="_replyto" class="form-control" placeholder="Your Email *" id="email" required>
+              </div>
+              <div class="control-group form-group">
+                <input type="tel" name="tel" class="form-control" placeholder="Your Phone *" id="phone" required>
+              </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                  <form name="sentMessage" id="contactForm" action="https://formspree.io/{{ site.email }}" method="POST">
-                      <div class="row">
-                          <div class="col-md-6">
-                              <div class="control-group form-group">
-                                  <input type="text" name="name" class="form-control" placeholder="Your Name *" id="name" required>
-                              </div>
-                              <div class="control-group form-group">
-                                  <input type="email" name="_replyto" class="form-control" placeholder="Your Email *" id="email" required>
-                              </div>
-                              <div class="control-group form-group">
-                                  <input type="tel" name="tel" class="form-control" placeholder="Your Phone *" id="phone" required>
-                              </div>
-                          </div>
-                          <div class="col-md-6">
-                              <div class="control-group form-group">
-                                  <textarea class="form-control" name="message" placeholder="Your Message *" id="message" required></textarea>
-                              </div>
-                          </div>
-                          <div class="clearfix"></div>
-                          <div class="col-lg-12 text-center">
-                              <div id="success"></div>
-                              <!-- <button type="submit" class="btn btn-xl">Send Message</button> -->
-                              <input type="submit" value="Send" class="btn btn-xl">
-                              <input type="hidden" name="_next" value="{{ site.baseurl }}/thank-you/">
-                          </div>
-                      </div>
-                  </form>
-                </div>
+            <div class="col-md-6">
+              <div class="control-group form-group">
+                <textarea class="form-control" name="message" placeholder="Your Message *" id="message" required></textarea>
+              </div>
             </div>
-        </div>
-    </section>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+            <div id="success"></div>
+              <!-- <button type="submit" class="btn btn-xl">Send Message</button> -->
+              <input type="submit" value="Send" class="btn btn-xl">
+              <input type="hidden" name="_next" value="{{ site.baseurl }}/thank-you/">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

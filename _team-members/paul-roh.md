@@ -1,7 +1,7 @@
 ---
 title: Paul Roh
 position: 0
-credentials: PT, DPT | Owner
+credentials: PT, DPT | President & Founder
 pic: paul
 bio: Paul’s interest in physical therapy grew from his own injuries growing up. He
   has always had a passion to help others and a fascination with the human body and

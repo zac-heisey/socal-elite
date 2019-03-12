@@ -314,20 +314,8 @@ header {
     -o-background-size: cover;
 }
 
-header#solana-beach {
-  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/solana-beach-header-bg.jpg');
-}
-
-header#carlsbad {
-  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carlsbad-header-bg.jpg');
-}
-
-header#point-loma {
-  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/point-loma-header-bg.jpg');
-}
-
-header#carmel-valley {
-  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carmel-valley-header-bg.jpg');
+header#orange-county {
+  background-image: linear-gradient(to top, rgba(179, 153, 93, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/orange-county-header-bg.jpg');
 }
 
 header .intro-text {

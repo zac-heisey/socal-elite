@@ -1,7 +1,7 @@
 ---
 title: Navid Hannanvash
 position: 2
-credentials: PT, DPT, ATC, CSCS, FMR, CAFS, FAFS | Vice President & Co-Founder
+credentials: PT, DPT, ATC, CSCS, FMR, CAFS, FAFS | Co-Founder
 pic: navid
 bio: In addition to striving to set up environments to provide the most quality care
   to his patients, Navid enjoys spending time with his friends and family, walking

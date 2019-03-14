@@ -1,4 +1,6 @@
 # Netlify Dev Domain Redirects
+https://socalelite.netlify.com/* https://www.socalelitephysicaltherapy.com/:splat 301!
+http://socalelite.netlify.com/* http://www.socalelitephysicaltherapy.com/:splat 301!
 
 # Page Redirects
 

@@ -21,11 +21,11 @@ defaults:
     featured-image: ''
     alt-tag: ''
 url: https://www.socalelitephysicaltherapy.com
-baseurl: 
+baseurl:
 email: admin@socalelitephysicaltherapy.com
 description: Welcome to Socal Elite Physical Therapy. Providing physical therapy in
   Irvine, CA. Visit us today to schedule your appointment!
-logo: img/logos/socal-elite-logo.png
+logo: img/logos/socal-elite-logo-white.png
 social:
 - title: twitter
   url: http://twitter.com/

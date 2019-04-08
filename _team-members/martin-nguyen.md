@@ -2,7 +2,7 @@
 title: Martin Nguyen
 position: 1
 credentials: PT, DPT, CAFS | Vice President
-pic: martin
+image: martin
 bio: Martin's interest for physical therapy was sparked by overcoming his own injuries
   as a competitive basketball player and long-distance runner while growing up in
   Texas. He enjoys taking the journey with his patients through the process of rehabilitation,
@@ -10,4 +10,3 @@ bio: Martin's interest for physical therapy was sparked by overcoming his own in
   Outside of the clinic, he enjoys playing pick-up basketball at the local gym, running
   along the beach, and trying new foods.
 ---
-

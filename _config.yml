@@ -21,20 +21,18 @@ defaults:
     featured-image: ''
     alt-tag: ''
 url: https://www.socalelitephysicaltherapy.com
-baseurl: 
+baseurl:
 email: admin@socalelitephysicaltherapy.com
 description: Welcome to Socal Elite Physical Therapy. Providing physical therapy in
   Irvine, CA. Visit us today to schedule your appointment!
 logo: img/logos/socal-elite-logo-white.png
 social:
-- title: twitter
-  url: http://twitter.com/
 - title: facebook
-  url: https://www.facebook.com/
+  url: https://www.facebook.com/SoCalElitePhysicalTherapy/
 - title: instagram
-  url: https://instagram.com/
-- title: linkedin
-  url: https://www.linkedin.com/
+  url: https://instagram.com/socalelitephysicaltherapy/
+- title: yelp
+  url: https://www.yelp.com/biz/socal-elite-physical-therapy-irvine
 address:
 - line: 12 Mauchly, Suite P
 - line: Irvine, CA 92075

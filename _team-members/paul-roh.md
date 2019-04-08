@@ -9,3 +9,4 @@ bio: Paul’s interest in physical therapy grew from his own injuries growing up
   them reach their maximum performance levels. In his free time, Paul enjoys playing
   basketball and managing a non-profit youth sports organization.
 ---
+

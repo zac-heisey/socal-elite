@@ -8,8 +8,8 @@
     </div>
     <div class="row">
       <div class="col-lg-12">
-        <!-- Contact Form (via Formspree.io) -->
-        <form name="sentMessage" id="contactForm" action="https://formspree.io/admin@socalphysicaltherapy.com" method="POST">
+        <!-- Contact Form (via Basin) -->
+        <form name="sentMessage" id="contactForm" accept-charset="UTF-8" action="https://usebasin.com/f/fdf4cd437f0f" enctype="multipart/form-data" method="POST">
           <div class="row">
             <div class="col-md-6">
               <div class="control-group form-group">
@@ -29,9 +29,9 @@
             </div>
             <div class="clearfix"></div>
             <div class="col-lg-12 text-center">
-            <div id="success"></div>
+              <!-- Hidden 'gotcha' field for bots -->
+              <input type="hidden" id="gotcha" name="_gotcha">
               <input type="submit" value="Send" class="btn btn-xl">
-              <input type="hidden" name="_next" value="{{ site.baseurl }}/thank-you/">
             </div>
           </div>
         </form>

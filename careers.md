@@ -8,7 +8,7 @@ layout: page
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">{{ page.title }}</h2>
-        <h3 class="section-subheading text-muted">Interested in join the team at SoCal Elite Physical Therapy? Complete the form below and we will be in touch ASAP. Thanks!</h3>
+        <h3 class="section-subheading text-muted">Interested in joining the team at SoCal Elite Physical Therapy? Complete the form below and we will be in touch ASAP. Thanks!</h3>
       </div>
     </div>
     <div class="row">

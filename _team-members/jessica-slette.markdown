@@ -12,3 +12,4 @@ bio: Jessica’s passion for helping others with health and wellness began early
   to reach their personal goals. Outside of the clinic, Jessica loves hiking, biking,
   cooking, exploring the outdoors, and spending quality time with friends and family.
 ---
+

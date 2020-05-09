@@ -1,0 +1,62 @@
+I"l<div class="home">
+
+  <h1>Posts</h1>
+
+  <ul class="posts">
+    
+      <li>
+        <span class="post-date">Nov 12, 2018</span>
+        <a class="post-link" href="/blog/the-role-of-physical-therapy-in-pre-and-post-op-care">The Role of Physical Therapy in Pre and Post-Op Care</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/z-injury-prevention">Injury Prevention</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/y-acute-injury">Acute Injury</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/x-reconditioning-deconditioning">Reconditioning</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/w-balance-training">Balance Training</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/v-neurological-rehab">Vestibular</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/u-biomechanical-assessment">Biomechanical Assessment</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/t-pediatric-pt">Pediatric Rehab</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/s-sports-training">Elite Sports Training</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Jan 15, 2017</span>
+        <a class="post-link" href="/services/r-torticollis-plagiocephaly">Torticollis</a>
+      </li>
+    
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+
+</div>
+:ET

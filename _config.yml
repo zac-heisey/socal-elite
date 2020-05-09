@@ -2,6 +2,10 @@
 title: SoCal Elite Physical Therapy
 timezone: UTC
 collections:
+  locations:
+    title: Locations
+    output: true
+    permalink: "/:collection/:name"
   posts:
     title: Posts
     output: true
@@ -21,7 +25,7 @@ defaults:
     featured-image: ''
     alt-tag: ''
 url: https://www.socalelitephysicaltherapy.com
-baseurl: 
+baseurl:
 email: admin@socalelitephysicaltherapy.com
 description: Welcome to Socal Elite Physical Therapy. Providing physical therapy in
   Irvine, CA. Visit us today to schedule your appointment!

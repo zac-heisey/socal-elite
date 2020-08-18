@@ -1,7 +1,7 @@
 ---
 title: Jessica Slette
 date: 2020-05-07 21:37:00 Z
-position: 2
+position: 1
 credentials: PT, DPT
 image: jessica
 bio: Jessica’s passion for helping others with health and wellness began early on

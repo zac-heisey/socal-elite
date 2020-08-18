@@ -1,7 +1,7 @@
 ---
 title: Ethan Warner
 date: 2020-08-18 18:55:00 Z
-position: 3
+position: 2
 credentials: PT, DPT, CFMT
 image: "/uploads/Ethan%20Warner%20Bio%20Pic.jpeg"
 bio: Ethan’s interest in physical therapy began with being raised in an athletic household

@@ -3,7 +3,7 @@ title: Ethan Warner
 date: 2020-08-18 18:55:00 Z
 position: 3
 credentials: PT, DPT, CFMT
-image: Ethan.jpg
+image: "/uploads/Ethan.jpg"
 bio: Ethan’s interest in physical therapy began with being raised in an athletic household
   where he competed in tennis, soccer, basketball, taekwondo, running, and rowing.
   He earned his kinesiology degree from Westmont College and his Doctor in Physical

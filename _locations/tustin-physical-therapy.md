@@ -22,9 +22,9 @@ layout: locations
       <div class="row">
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Tustin</h2>
-          <h4 class="subheading">2925 Airway Ave j<br> Costa Mesa, CA 92626</h4></a>
+          <h4 class="subheading">17602 17th Street, #106<br> Tustin, CA 92780</h4></a>
           <h3 class="section-subheading text-muted locations">Phone: (949) 590-9350 | Fax: (714) 361-2604</h3>
-          <p class="text-muted">Our physical therapy clinic in Costa Mesa welcomes clients from all over Orange County and offers a safe environment for clients to experience exceptional physical therapy services.</p>
+          <p class="text-muted">Our physical therapy clinic in Tustin welcomes clients from all over Orange County and offers a safe environment for clients to experience exceptional physical therapy services.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
         <div class="col-lg-6">

@@ -22,7 +22,7 @@ description: SoCal Elite Physical Therapy in Costa Mesa provides 1-on-1 physical
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Costa Mesa</h2>
           <h4 class="subheading">2925 Airway Ave j<br> Costa Mesa, CA 92626</h4>
-          <h3 class="section-subheading text-muted locations">Phone: (949) 590-9350 | Fax: (714) 361-2604</h3>
+          <h3 class="section-subheading text-muted locations">Phone: (949) 590-9350 | Fax: (714) 361-2606</h3>
           <p class="text-muted">Our physical therapy clinic in Costa Mesa welcomes clients from all over Orange County and offers a safe environment for clients to experience exceptional physical therapy services.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>

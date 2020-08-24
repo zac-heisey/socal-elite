@@ -6,7 +6,6 @@ layout: locations
 ---
 
 <!-- Irvine / Orange County Location Page -->
-  <!-- Header -->
   <header id="orange-county">
     <div class="container">
       <div class="intro-text">

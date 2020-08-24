@@ -3,10 +3,10 @@ title: Costa Mesa Physical Therapy
 description: SoCal Elite Physical Therapy in Costa Mesa provides 1-on-1 physical therapy
   treatment. Come see why we're the premier Orange County physical therapy clinic
   serving Costa Mesa, CA.
+layout: locations
 ---
 
 <!-- Costa Mesa Location Page -->
-  <!-- Header -->
   <header id="costa mesa">
     <div class="container">
       <div class="intro-text">

@@ -7,7 +7,6 @@ layout: locations
 ---
 
 <!-- Tustin Location Page -->
-  <!-- Header -->
   <header id="tustin">
     <div class="container">
       <div class="intro-text">

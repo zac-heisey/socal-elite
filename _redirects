@@ -3,5 +3,6 @@ https://socalelite.netlify.com/* https://www.socalelitephysicaltherapy.com/:spla
 http://socalelite.netlify.com/* http://www.socalelitephysicaltherapy.com/:splat 301!
 
 # Page Redirects
+/team-members/* /#teamv 301
 
 # Blog Redirects

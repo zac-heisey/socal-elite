@@ -20,9 +20,9 @@ layout: page
                   </li>
                   {% endif %}
                   {% endfor %}
-                  {% for page in site.team-members %}
+                  {% for page in site.locations %}
                   <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
                   </li>
                   {% endfor %}
                 </ul>

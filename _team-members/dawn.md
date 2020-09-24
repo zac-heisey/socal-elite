@@ -1,5 +1,5 @@
 ---
-title: Dawn Tran, MOT, OTR/L
+title: Dawn Tran
 position: 3
 credentials: Occupational Therapist
 image: dawn

@@ -1,7 +1,7 @@
 ---
 title: Dawn Tran
 position: 3
-credentials: Occupational Therapist
+credentials: MOT, OTR/L
 image: dawn
 bio: Dawn’s passion for Occupational Therapy stems from the need to help her mom’s
   arthritic hands from cutting hair for 20 years and counting! Once Dawn found that

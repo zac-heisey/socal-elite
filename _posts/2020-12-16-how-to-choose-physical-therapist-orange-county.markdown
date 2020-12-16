@@ -3,7 +3,9 @@ title: How to Choose a Physical Therapist in Orange County
 date: 2020-12-16 00:00:01 Z
 categories:
 - blog
-description: Finding the right person to provide physical therapy requires knowing your options. Here is a guide on how to choose a physical therapist in Orange County, CA.
+description: Finding the right person to provide physical therapy requires knowing
+  your options. Here is a guide on how to choose a physical therapist in Orange County,
+  CA.
 featured-image: uploads/choose-physical-therapist-orange-county.jpg
 alt-tag: image of orange county physical therapist treating a patient
 layout: blog_post

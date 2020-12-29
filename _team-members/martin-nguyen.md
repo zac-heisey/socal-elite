@@ -1,6 +1,6 @@
 ---
 title: Martin Nguyen
-position: 5
+position: 6
 credentials: PT, DPT, CAFS | Vice President
 image: martin
 bio: Martin's interest for physical therapy was sparked by overcoming his own injuries

@@ -10,4 +10,3 @@ bio: Dawn’s passion for Occupational Therapy stems from the need to help her m
   she’s not lifting wrists and fingers, she enjoys lifting weights, lifting her nephew,
   lifting pages in books, and lifting lids when she’s cooking.
 ---
-

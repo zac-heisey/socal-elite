@@ -8,4 +8,3 @@ bio: In addition to striving to set up environments to provide the most quality 
   his wolf Jasmine around town, and all things sports (especially basketball) and
   food related.
 ---
-

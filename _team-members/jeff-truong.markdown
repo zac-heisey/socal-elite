@@ -11,4 +11,3 @@ bio: Jeff’s passion for physical therapy stemmed from a shoulder injury while 
   he loves staying active through volleyball, snowboarding, surfing, powerlifting,
   and hiking.
 ---
-

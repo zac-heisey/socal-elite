@@ -3,7 +3,8 @@ title: 10 Steps in the Injury Recovery Process
 date: 2021-01-06 00:00:01 Z
 categories:
 - blog
-description: If you've been hurt and your injury recovery is not progressing at the rate you want, you may need to seek out the help of a physical therapist.
+description: If you've been hurt and your injury recovery is not progressing at the
+  rate you want, you may need to seek out the help of a physical therapist.
 featured-image: uploads/10-steps-injury-recovery.jpg
 alt-tag: image of person holding their knee in pain
 layout: blog_post

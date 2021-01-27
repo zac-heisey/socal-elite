@@ -3,7 +3,8 @@ title: 6 Confusing Exercise Terms Explained
 date: 2021-01-27 00:00:01 Z
 categories:
 - blog
-description: There are many terms within the fitness world that you may not yet understand, but once you do, they make perfect sense. Here are 6 confusing exercise terms explained.
+description: There are many terms within the fitness world that you may not yet understand,
+  but once you do, they make perfect sense. Here are 6 confusing exercise terms explained.
 featured-image: uploads/confusing-exercise-terms.jpg
 alt-tag: image of flexible woman doing yoga pose
 layout: blog_post

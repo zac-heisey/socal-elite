@@ -10,6 +10,8 @@ alt-tag: woman working at a standing desk in an office
 layout: blog_post
 ---
 
+_Originally posted on [Wellistic.com](https://www.wellistic.com/blog/4-exercises-to-help-maximize-the-benefits-of-your-standing-desk/)_
+
 Look at you, standing at your desk. Did you make the radical decision to eschew the norm and upgrade your workstation during quarantine? Or have you always liked the feeling of rising above your coworkers as they hunched and huddled over their too-low workspaces? 
 
 Maybe you’re just standing up for what you believe in: health and fitness.

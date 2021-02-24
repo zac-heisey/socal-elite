@@ -3,7 +3,9 @@ title: How Long Do Physical Therapy Programs Take?
 date: 2021-02-24 00:00:01 Z
 categories:
 - blog
-description: Everyone is different when it comes to injury recovery. This article on physical therapy programs should clear up questions you have about how long it takes.
+description: Everyone is different when it comes to injury recovery. This article
+  on physical therapy programs should clear up questions you have about how long it
+  takes.
 featured-image: uploads/how-long-physical-therapy-programs.jpg
 alt-tag: woman performing acupuncture on a patient's legs
 layout: blog_post

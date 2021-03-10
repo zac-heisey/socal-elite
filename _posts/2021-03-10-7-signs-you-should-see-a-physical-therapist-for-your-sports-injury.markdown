@@ -5,7 +5,7 @@ categories:
 - blog
 description: Sports injury recovery should be taken very seriously. Here are 7 signs
   that you should see a doctor or physical therapist for your sports injury.
-featured-image: "/uploads/7-injuries-requiring-physical-therapy.jpg"
+featured-image: uploads/7-injuries-requiring-physical-therapy.jpg
 alt-tag: man holding ankle after sports injury on a track
 layout: blog_post
 ---

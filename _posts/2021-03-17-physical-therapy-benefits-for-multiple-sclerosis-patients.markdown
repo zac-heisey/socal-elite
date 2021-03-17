@@ -5,7 +5,7 @@ categories:
 - blog
 description: If you have multiple sclerosis and looking for relieve from your symptoms,
   click here to learn about physical therapy benefits and more.
-featured-image: "/uploads/physical-therapy-after-injury.jpg"
+featured-image: uploads/physical-therapy-after-injury.jpg
 alt-tag: image of physical therapist treating a patients foot and ankle
 layout: blog_post
 ---

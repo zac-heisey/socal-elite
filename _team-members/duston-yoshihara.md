@@ -1,5 +1,5 @@
 ---
-title: Dustin Yoshihara
+title: Duston Yoshihara
 position: 9
 credentials: PT, DPT
 image: duston-yoshihara

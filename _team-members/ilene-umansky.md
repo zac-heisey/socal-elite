@@ -1,6 +1,6 @@
 ---
 title: Ilene Umansky
-position: 11
+position: 10
 credentials: OTR/L
 image: ilene-umansky
 bio: Ilene was drawn to the field of occupational therapy because of her passion for

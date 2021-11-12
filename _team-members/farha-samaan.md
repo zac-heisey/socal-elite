@@ -1,6 +1,6 @@
 ---
 title: Farha Samaan
-position: 10
+position: 9
 credentials: PT, DPT
 image: farha-samaan
 bio: Farha's interest in physical therapy was due to wanting to take a patient-centered

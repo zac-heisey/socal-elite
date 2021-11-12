@@ -1,6 +1,6 @@
 ---
 title: Duston Yoshihara
-position: 9
+position: 8
 credentials: PT, DPT
 image: duston-yoshihara
 bio: Duston became interested in fitness and wellness from playing sports while growing

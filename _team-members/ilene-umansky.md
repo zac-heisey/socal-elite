@@ -1,7 +1,7 @@
 ---
 title: Ilene Umansky
 position: 9
-credentials: OTR/L
+credentials: MOT, OTR/L
 image: ilene-umansky
 bio: Ilene was drawn to the field of occupational therapy because of her passion for
   integrating fun, creative and functional ways of helping others to live their lives

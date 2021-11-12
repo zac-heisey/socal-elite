@@ -1,6 +1,6 @@
 ---
 title: Ruta
-position: 7
+position: 6
 credentials: PT, DPT
 image: ruta
 bio: Ruta’s interest in physical therapy started at a young age, seeing her mom help

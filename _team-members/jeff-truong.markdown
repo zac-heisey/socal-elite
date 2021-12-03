@@ -1,6 +1,6 @@
 ---
 title: Jeff Truong
-position: 5
+position: 3
 credentials: PT, DPT
 image: jeff
 bio: Jeff’s passion for physical therapy stemmed from a shoulder injury while wrestling

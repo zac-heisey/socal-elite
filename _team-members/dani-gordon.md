@@ -1,6 +1,6 @@
 ---
 title: Dani Gordon
-position: 6
+position: 4
 credentials: PT, DPT
 image: dani
 bio: Dani’s interest in health and fitness began playing a variety of different sports

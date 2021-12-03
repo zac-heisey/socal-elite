@@ -1,6 +1,6 @@
 ---
 title: Navid Hannanvash
-position: 3
+position: 9
 credentials: PT, DPT, CSCS, FMR, CAFS, FAFS, AT Ret. | Co-Founder
 image: navid
 bio: In addition to striving to set up environments to provide the most quality care

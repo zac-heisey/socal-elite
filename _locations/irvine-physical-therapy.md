@@ -26,7 +26,7 @@ layout: locations
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
         <div class="col-lg-6">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13284.478590029563!2d-117.74215713763428!3d33.65406156473715!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x37e66766769670b4!2sSoCal+Elite+Sports!5e0!3m2!1sen!2sus!4v1551218851966" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.8073301223317!2d-117.74484708498183!3d33.66215384563347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdd54759f81ef%3A0xc3ec4c4109ce691b!2sA%2C%2015375%20Barranca%20Pkwy%20a103%2C%20Irvine%2C%20CA%2092618!5e0!3m2!1sen!2sus!4v1640658174022!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
     </div>

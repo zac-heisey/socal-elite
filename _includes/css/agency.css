@@ -624,7 +624,7 @@ section h3.locations {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
-    min-height: 705px;
+    height: 705px;
 }
 
 .team-member img {

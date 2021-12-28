@@ -20,7 +20,7 @@ layout: locations
       <div class="row">
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Irvine</h2>
-          <h4 class="subheading">12 Mauchly, Suite P<br> Irvine, CA 92618</h4>
+          <h4 class="subheading">15375 Barranca Pkwy, Suite A103<br> Irvine, CA 92618</h4>
           <h3 class="section-subheading text-muted locations">Phone: (949) 590-9350 | Fax: (949) 346-5350</h3>
           <p class="text-muted">Located in the heart of Orange County, this is where <a href="/">SoCal Elite Physical Therapy</a> was established. We've made it our mission to be a contributing member to the Irvine and Orange County communities. Our facility welcomes clients from all over Orange County and offers a safe environment for clients to experience exceptional physical therapy services.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>

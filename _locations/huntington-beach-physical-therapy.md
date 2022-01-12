@@ -1,8 +1,8 @@
 ---
 title: Huntington Beach Physical Therapy
-description: SoCal Elite Physical Therapy in Huntington Beach provides 1-on-1 physical therapy
-  treatment. Come see why we're the premier physical therapy clinic
-  serving Huntington Beach, CA.
+description: SoCal Elite Physical Therapy in Huntington Beach provides 1-on-1 physical
+  therapy treatment. Come see why we're the premier physical therapy clinic serving
+  Huntington Beach, CA.
 layout: locations
 ---
 
